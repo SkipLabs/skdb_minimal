@@ -2,11 +2,12 @@
 A minimal example using skdb in a browser
 
 # INSTALL
-
+```
 git clone https://github.com/SkipLabs/skdb_minimal.git
 cd skdb_minimal
 npm install --global http-server
 npm i
+```
 
 # RUN
 
