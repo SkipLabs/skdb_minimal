@@ -11,7 +11,8 @@ npm i
 
 # RUN
 
-```open script.mjs, edit the line ```const b64key = "";``` with the secret```
+open ```script.mjs```, edit the line ```const b64key = "";``` with the secret.
+
 Then from the skdb_minimal directory run:
 ```
 $ http-server
