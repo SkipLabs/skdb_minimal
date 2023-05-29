@@ -11,6 +11,10 @@ npm i
 
 # RUN
 
-open script.mjs, edit the line ```const b64key = "";``` with the secret key.
-Then from the skdb_minimal directory run http-server
-open your browser at https://localhost:8080
+```open script.mjs, edit the line ```const b64key = "";``` with the secret```
+Then from the skdb_minimal directory run:
+```
+$ http-server
+```
+
+open your browser at ```https://localhost:8080```
